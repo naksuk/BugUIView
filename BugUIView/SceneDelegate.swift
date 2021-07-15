@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  BugUIView
-//
-//  Created by 中村亮介 on 2021/07/15.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
